@@ -1,2 +1,1 @@
-"# basic-git" 
-Conflict kan
+"# basic-git" dummy text "# basic-git" Conflict kan
