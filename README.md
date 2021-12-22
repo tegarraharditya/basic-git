@@ -1,2 +1,2 @@
 "# basic-git" 
-Ini Original Dari Local
+Conflict kan
